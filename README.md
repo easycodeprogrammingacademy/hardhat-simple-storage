@@ -4,6 +4,8 @@
 
 - [How to install Linux on Windows](https://learn.microsoft.com/en-us/windows/wsl/install)
 
+- [Install Node](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
+
 - [Solidity Extension](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
 
 - [Prettier Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
